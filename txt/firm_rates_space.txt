@@ -1,0 +1,8 @@
+@techreport{bordeuetal25,
+  author      = {Olivia Bordeu and Gustavo Gonz{\'a}lez and Marcos Sor{\'a}},
+  title       = {Bank Competition and Investment Costs across Space},
+  institution = {Banco Central de Chile},
+  series      = {Documentos de Trabajo},
+  year        = {2025},
+  month       = {April}
+}
