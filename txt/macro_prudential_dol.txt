@@ -1,0 +1,13 @@
+@article{OSKOLKOV2023103838,
+title = {Macroprudential policy for internal financial dollarization},
+journal = {Journal of International Economics},
+volume = {145},
+pages = {103838},
+year = {2023},
+issn = {0022-1996},
+doi = {https://doi.org/10.1016/j.jinteco.2023.103838},
+url = {https://www.sciencedirect.com/science/article/pii/S0022199623001241},
+author = {Aleksei Oskolkov and Marcos Sorá},
+keywords = {Liability dollarization, Macroprudential policy, Exchange rates},
+abstract = {We study macroprudential policy aimed at domestic debt denominated in different currencies. We model a small open economy with entrepreneurs and workers who save and borrow in domestic and foreign currency. Financial frictions make dollar debt on entrepreneurs’ balance sheets especially disruptive when the exchange rate depreciates. Falling output causes additional depreciation; this amplification provides a rationale for de-dollarization. On the other hand, de-dollarization is costly because the dollar savings of domestic workers provide them with insurance. We characterize the social marginal benefits and costs of de-dollarization in this context. The social marginal costs are associated with a deterioration in risk-sharing and can be expressed in terms of the interest rate premium on domestic currency assets. We find that these costs are of second order around the unregulated equilibrium, but play a role for optimal policy.}
+}
