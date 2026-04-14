@@ -1,0 +1,8 @@
+@unpublished{bordeuetal26,
+  title        = {Bank Branches and the Allocation of Capital across Cities},
+  author       = {Bordeu, Olivia and Gonz{\'a}lez, Gustavo and Sor{\'a}, Marcos},
+  year         = {2026},
+  month        = apr,
+  note         = {Working paper (April 14, 2026)},
+  url          = {https://marcossora.github.io/website/BordeuGonzalezSora_BanksCapital.pdf}
+}
