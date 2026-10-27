@@ -1,8 +1,9 @@
-@techreport{bordeuetal25,
-  author      = {Olivia Bordeu and Gustavo Gonz{\'a}lez and Marcos Sor{\'a}},
-  title       = {Bank Competition and Investment Costs across Space},
-  institution = {Banco Central de Chile},
-  series      = {Documentos de Trabajo},
+@techreport{bordeu2025localcredit,
+  title       = {Local Credit Markets and Firm Borrowing Costs: Evidence from Chile},
+  author      = {Bordeu, Olivia and Gonz{\'a}lez, Gustavo and San Mill{\'a}n, Maximiliano and Sor{\'a}, Marcos},
   year        = {2025},
-  month       = {April}
+  institution = {Central Bank of Chile},
+  type        = {Working Paper},
+  number      = {1042},
+  url         = {https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1042-bank-competition-and-investment-costs-across-space},
 }
