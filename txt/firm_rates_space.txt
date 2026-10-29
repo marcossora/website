@@ -1,5 +1,5 @@
 @techreport{bordeu2025localcredit,
-  title       = {Local Credit Markets and Firm Borrowing Costs: Evidence from Chile},
+  title       = {Local Credit Markets and Firm Borrowing Costs},
   author      = {Bordeu, Olivia and Gonz{\'a}lez, Gustavo and San Mill{\'a}n, Maximiliano and Sor{\'a}, Marcos},
   year        = {2025},
   institution = {Central Bank of Chile},
